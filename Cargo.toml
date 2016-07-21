@@ -2,6 +2,7 @@
 name = "exa"
 version = "0.4.0"
 authors = [ "ogham@bsago.me" ]
+build = "build.rs"
 
 [[bin]]
 name = "exa"
